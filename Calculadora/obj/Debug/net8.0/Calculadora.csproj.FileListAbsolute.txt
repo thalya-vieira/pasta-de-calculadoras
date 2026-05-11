@@ -1,0 +1,14 @@
+/home/hadassa/Documentos/calculadora-c#/Calculadora/bin/Debug/net8.0/Calculadora
+/home/hadassa/Documentos/calculadora-c#/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/home/hadassa/Documentos/calculadora-c#/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/home/hadassa/Documentos/calculadora-c#/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/home/hadassa/Documentos/calculadora-c#/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/home/hadassa/Documentos/calculadora-c#/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
